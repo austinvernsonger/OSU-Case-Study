@@ -1,0 +1,12 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{\scshape }{1}{0}{1}
+\beamer@sectionintoc {2}{\scshape Service Strategy}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Service Strategy}{3}{0}{2}
+\beamer@sectionintoc {3}{\scshape Service Design}{15}{0}{3}
+\beamer@subsectionintoc {3}{1}{Service Design}{15}{0}{3}
+\beamer@sectionintoc {4}{\scshape Service Transition}{25}{0}{4}
+\beamer@subsectionintoc {4}{1}{Service Transition}{25}{0}{4}
+\beamer@sectionintoc {5}{\scshape Service Operations}{31}{0}{5}
+\beamer@subsectionintoc {5}{1}{Service Operations}{31}{0}{5}
+\beamer@sectionintoc {6}{\scshape Continual Service Improvement}{37}{0}{6}
+\beamer@subsectionintoc {6}{1}{Continual Service Improvement}{37}{0}{6}
