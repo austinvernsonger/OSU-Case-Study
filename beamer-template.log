@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.13)  13 FEB 2016 15:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.13)  13 FEB 2016 15:44
 entering extended mode
 **./beamer-template.tex
 (beamer-template.tex
@@ -991,9 +991,9 @@ LaTeX Info: Redefining \includegraphics on input line 23.
 Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 44.
 
-[1{C:/Users/songer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+[1
 
-] [2
+{C:/Users/songer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
 ]
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
@@ -1095,37 +1095,3 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout6 = `beamer-template.nav'.
 
 \tf@toc=\write7
-\openout7 = `beamer-template.toc'.
-
-\tf@snm=\write8
-\openout8 = `beamer-template.snm'.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 260.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 260.
- (beamer-template.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 260.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 260.
-Package rerunfilecheck Info: File `beamer-template.out' has not changed.
-(rerunfilecheck)             Checksum: 3411736E0427B009D27E0355F9495C18;662.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 260.
- ) 
-Here is how much of TeX's memory you used:
- 20428 strings out of 493634
- 410329 string characters out of 3141311
- 519053 words of memory out of 3000000
- 23253 multiletter control sequences out of 15000+200000
- 20326 words of font info for 55 fonts, out of 3000000 for 9000
- 1025 hyphenation exceptions out of 8191
- 56i,19n,65p,419b,740s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on beamer-template.pdf (42 pages, 665818 bytes).
-PDF statistics:
- 3138 PDF objects out of 3580 (max. 8388607)
- 96 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
-
